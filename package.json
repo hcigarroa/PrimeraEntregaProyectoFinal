@@ -1,0 +1,26 @@
+{
+  "name": "-primeraentrega_proyectofinal-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node server.js",
+    "start:dev":"nodemon server.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hcigarroa/PrimeraEntregaProyectoFinal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hcigarroa/PrimeraEntregaProyectoFinal/issues"
+  },
+  "homepage": "https://github.com/hcigarroa/PrimeraEntregaProyectoFinal#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
